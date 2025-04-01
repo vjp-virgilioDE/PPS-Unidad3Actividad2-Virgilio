@@ -26,11 +26,11 @@ Tenemos como objetivo:
 	- Localiza los servicios web que tienen las diferentes máquinas (Wfuzz y Dirb).
 	- Utiliza el comando searchsploit para buscar información de explotación de vulnerabilidades presentes en linux con kernel 5
 ---	
-## ENTREGA
+[## ENTREGA](/Entrega.md)
 
 >__Realiza las operaciones indicadas__
 
->__Crea un repositorio  con nombre PPS-Unidad3Actividad2-Tu-Nombre donde documentes la realización de ellos.__
+>__Crea un repositorio  con nombre [PPS-Unidad3Actividad2-Tu-Nombre](https://github.com/vjp-virgilioDE/PPS-Unidad3Actividad2-Virgilio#) donde documentes la realización de ellos.__
 
 > No te olvides de documentarlo convenientemente con explicaciones, capturas de pantalla, etc.
 
