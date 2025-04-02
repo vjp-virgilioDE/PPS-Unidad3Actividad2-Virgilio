@@ -32,4 +32,38 @@ Una lista más completa y detallada de scripts NSE disponibles se puede consulta
 
 - **SearchSploit**: Es una herramienta de línea de comandos que permite buscar exploits en la base de datos de Exploit-DB de manera local. Es especialmente útil para identificar exploits disponibles para vulnerabilidades específicas sin necesidad de una conexión a Internet. SearchSploit está incluido en distribuciones como Kali Linux y su manual oficial se encuentra en [Exploit Database](https://www.exploit-db.com/searchsploit).
 
-Para una comprensión más profunda de estas herramientas, se recomienda consultar la documentación oficial y realizar prácticas en entornos controlados.
+## Uso de herramientas
+
+Analizamos en shodan la ip y dominio de ies.vjp
+
+![](/Imagenes/imagen1.png)
+
+![](/Imagenes/imagen2.png)
+
+- Sobre la red del laboratorio PPS con kali, bWAPP, Multidillae y DVWA:
+  
+- Ayudándote del fichero docker-compose localiza las diferentes máquinas y puertos que deberían de tener abiertos.
+
+![](/Imagenes/imagen3.png)
+
+ Identifica los equipos de la Red con Nmap.
+
+![](/Imagenes/imagen4.png)
+
+- Realiza análisis de puertos en las MV.
+  
+- Encuentra los Servicios y Sistemas Operativos de las MV.
+
+![](/Imagenes/imagen5.png)
+
+- Inspecciona los puertos con nikto.
+
+![](/Imagenes/imagen6.png)  
+
+- Busca las vulnerabilidades de las MV con los scripts de Nmap.
+
+![](/Imagenes/imagen7.png)
+
+- Utiliza el comando searchsploit para buscar información de explotación de vulnerabilidades presentes en linux con kernel 5
+ 
+![](/Imagenes/imagen8.png)  
